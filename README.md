@@ -35,3 +35,9 @@ Then open the local URL shown in your terminal (usually `http://localhost:8501`)
 ## 📌 About this project
 
 This is part of a broader summer learning roadmap covering Python, DSA, and Retrieval-Augmented Generation (RAG) fundamentals, aimed at building real, deployable GenAI applications.
+
+## 📸 Screenshot
+
+
+
+![App Screenshot](IMG20260709005530_BURST000_COVER.jpg)
