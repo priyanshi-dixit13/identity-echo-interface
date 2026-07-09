@@ -25,10 +25,10 @@ Built as part of my self-directed learning path toward becoming a **GenAI / RAG 
 
 ## ▶️ Run it locally
 
-\`\`\`bash
+```bash
 pip install streamlit
 streamlit run identity_echo_interface.py
-\`\`\`
+```
 
 Then open the local URL shown in your terminal (usually `http://localhost:8501`).
 
