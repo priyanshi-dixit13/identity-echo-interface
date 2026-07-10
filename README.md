@@ -41,3 +41,41 @@ This is part of a broader summer learning roadmap covering Python, DSA, and Retr
 
 
 ![App Screenshot](IMG20260709005530_BURST000_COVER.jpg)
+
+
+
+## Assignment 2
+
+### AI Multiverse Chatbot
+
+A Streamlit-based chatbot that lets users chat with multiple AI personalities, powered by the Google Gemini API.
+
+### Features
+
+- Multiple AI Personalities
+- Chat with Gemini AI
+- Streamlit User Interface
+- Clear Chat Option
+
+### Technologies Used
+
+- Python
+- Streamlit
+- Google Gemini API
+- python-dotenv
+
+### How to Run
+
+1. Clone this repository
+2. Install the dependencies:
+   
+   pip install streamlit google-generativeai python-dotenv
+   
+3. Create a `.env` file in the project folder and add your Gemini API key:
+   
+   GEMINI_API_KEY=your_api_key_here
+   
+4. Run the app:
+   
+   streamlit run upgrading_ai_multiverse.py
+   
