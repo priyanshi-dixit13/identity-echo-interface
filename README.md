@@ -1,4 +1,4 @@
-ASSIGNMENT 1
+ASSIGNMENT 1 -
 # 🕳️ The Void — A Streamlit Echo Interface
 
 A small interactive web app built with **Streamlit** that collects a user's name and message, validates the input, and echoes back a personalized response — along with an estimated **token cost**, similar to how real AI APIs bill for usage.
@@ -44,7 +44,7 @@ This is part of a broader summer learning roadmap covering Python, DSA, and Retr
 
 
 
-## Assignment 2
+## Assignment 2 -
 
 ### AI Multiverse Chatbot
 
