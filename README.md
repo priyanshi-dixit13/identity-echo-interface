@@ -78,4 +78,7 @@ A Streamlit-based chatbot that lets users chat with multiple AI personalities, p
 4. Run the app:
    
    streamlit run upgrading_ai_multiverse.py
+
+5. Screenshot:
+  IMG_20260711_221549.jpg
    
