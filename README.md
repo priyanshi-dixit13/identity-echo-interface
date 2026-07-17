@@ -62,7 +62,7 @@ A Streamlit-based chatbot that lets users chat with multiple AI personalities, p
 - Python
 - Streamlit
 - Google Gemini API
-- python-dotenv
+- python dotenv
 
 ### How to Run
 
